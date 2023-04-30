@@ -35,8 +35,8 @@ You can download the learned weights of the DAEFormer in the following table.
 
 Task | Dataset |Learned weights
 ------------ | -------------|----
-MSkin Lesion Segmentation | ISIC 2017 | [ISCF]()
-MSkin Lesion Segmentation | ISIC 2018 | [ISCF]()
+Skin Lesion Segmentation | ISIC 2017 | [ISCF](https://drive.google.com/file/d/1T-cvswKf1slTqEeXylbKQ-m6KWfRUsJI/view?usp=share_link)
+Skin Lesion Segmentation | ISIC 2018 | [ISCF](https://drive.google.com/file/d/1vVR7iqamGprzO9BXO4GzOrejpGdr4p4B/view?usp=share_link)
 ---
 ## References
 This repo heavily built on the following repos.
